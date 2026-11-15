@@ -1,7 +1,7 @@
 ﻿<Window x:Class="CatchTheSquare.MainWindow"
         xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
-        Title="Иванов Иван — Группа ИС-21 — ПР №8: Игровое приложение WPF"
+        Title="Бедарева Софья и Сторожева Анна группа 9ИС-435 — ПР №8: Игровое приложение WPF"
         Height="600" Width="900"
         KeyDown="Window_KeyDown" KeyUp="Window_KeyUp"
         Focusable="True">
@@ -15,7 +15,7 @@
 
         <!-- Заголовочная панель -->
         <StackPanel Grid.Row="0" Margin="10">
-            <TextBlock Text="Иванов Иван — Группа ИС-21"
+            <TextBlock Text="Бедарева Софья и Сторожева Анна группа 9ИС-435"
                        FontSize="18" FontWeight="Bold"/>
             <TextBlock Text="ПР №8: Игровое приложение WPF"
                        FontSize="14" Foreground="DarkBlue"/>
